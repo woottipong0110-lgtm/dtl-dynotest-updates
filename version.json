@@ -1,0 +1,8 @@
+{
+  "version": "2026.09.27",
+  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.09.27/DTL_DYNOTEST_SETUP_ONLINE_UPDATE_WIN7_X64_2026-09-27.exe",
+  "sha256": "1DEB00FA94A97CCFA55D8D86D2FC51F48E75682D1CA5E6434FCC59AAC681788C",
+  "size": 97667881,
+  "minimum_windows": "Windows 7 SP1 x64",
+  "notes": "เพิ่มระบบอัปเดตออนไลน์ โดยไม่เปลี่ยนโปรแกรมหลัก สูตรกราฟ สูตรวัด RUN_FILES หรือ SETTINGS.json"
+}
