@@ -1,8 +1,8 @@
 {
-  "version": "2026.09.28.2",
-  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.09.28.2/DTL_DYNOTEST_SETUP_MACHINE_LICENSE_WIN7_X64_2026-09-28_2.exe",
-  "sha256": "44DA5AA93A32DD17921EAF74258FB9D1F27DC4A4B9686A149D93C3F10FF0B6BF",
-  "size": 97680809,
+  "version": "2026.09.28.3",
+  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.09.28.3/DTL_DYNOTEST_SETUP_MACHINE_LICENSE_FILELOCK_FIX_WIN7_X64_2026-09-28_3.exe",
+  "sha256": "DC085DE7A1E38376E12074B4950DA2E29AFEAB8B014C9BBF9739FB96EFEDAE06",
+  "size": 97682558,
   "minimum_windows": "Windows 7 SP1 x64",
-  "notes": "เพิ่มระบบ Machine License: ดาวน์โหลด Setup ได้จาก GitHub แต่การติดตั้งต้องใช้ License Key ที่ผู้พัฒนาออกให้ตาม Machine ID หนึ่งคีย์ใช้ได้เฉพาะหนึ่งเครื่อง โดยไม่เปลี่ยนสูตรวัด สูตรกราฟ RUN_FILES หรือ SETTINGS.json"
+  "notes": "แก้ Permission denied ขณะติดตั้ง โดยตรวจและขอปิด DTL DYNOTEST/Online Update ที่กำลังล็อกไฟล์ พร้อม retry การเขียนไฟล์ คีย์เดิมยังใช้ได้ และไม่เปลี่ยนสูตรวัด สูตรกราฟ RUN_FILES หรือ SETTINGS.json"
 }
