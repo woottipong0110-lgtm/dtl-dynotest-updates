@@ -1,8 +1,8 @@
 {
-  "version": "2026.09.28.1",
-  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.09.28.1/DTL_DYNOTEST_SETUP_COMPACT_UPDATE_WIN7_X64_2026-09-28_1.exe",
-  "sha256": "48EB7844B5B96BD4753664A7AC4487A9EA00F5A32DDC53BED06F9DDD19B2447C",
-  "size": 97670753,
+  "version": "2026.09.28.2",
+  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.09.28.2/DTL_DYNOTEST_SETUP_MACHINE_LICENSE_WIN7_X64_2026-09-28_2.exe",
+  "sha256": "44DA5AA93A32DD17921EAF74258FB9D1F27DC4A4B9686A149D93C3F10FF0B6BF",
+  "size": 97680809,
   "minimum_windows": "Windows 7 SP1 x64",
-  "notes": "ลดขนาดหน้าต่าง Online Update เป็น 640 x 400 จัดข้อความสถานะใหม่ และจัดปุ่มให้กว้างเท่ากัน โดยไม่เปลี่ยนสูตรวัด สูตรกราฟ RUN_FILES หรือ SETTINGS.json"
+  "notes": "เพิ่มระบบ Machine License: ดาวน์โหลด Setup ได้จาก GitHub แต่การติดตั้งต้องใช้ License Key ที่ผู้พัฒนาออกให้ตาม Machine ID หนึ่งคีย์ใช้ได้เฉพาะหนึ่งเครื่อง โดยไม่เปลี่ยนสูตรวัด สูตรกราฟ RUN_FILES หรือ SETTINGS.json"
 }
