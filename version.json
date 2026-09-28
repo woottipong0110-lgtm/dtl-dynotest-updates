@@ -1,8 +1,8 @@
 {
-  "version": "2026.09.27.1",
-  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.09.27.1/DTL_DYNOTEST_SETUP_CHECK_UPDATE_BUTTON_WIN7_X64_2026-09-27_1.exe",
-  "sha256": "FE78D5F0BFBCBD3435AF094968AB873E00899408A956DD53DD663BCDFEEBD216",
-  "size": 97668995,
+  "version": "2026.09.28",
+  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.09.28/DTL_DYNOTEST_SETUP_DARK_UPDATE_THEME_WIN7_X64_2026-09-28.exe",
+  "sha256": "5E9C7F242305FC62040DAFB20F4B6F7A9945E632710C83D5109A7F96306D1CE7",
+  "size": 97670595,
   "minimum_windows": "Windows 7 SP1 x64",
-  "notes": "เพิ่มปุ่ม CHECK UPDATE ในหน้าหลักและหน้า Running Analysis โดยไม่เปลี่ยนสูตรวัด สูตรกราฟ RUN_FILES หรือ SETTINGS.json"
+  "notes": "ปรับหน้าต่าง Online Update เป็นโทนน้ำเงินเข้ม ฟ้า และเขียวแบบเดียวกับโปรแกรมหลัก โดยไม่เปลี่ยนสูตรวัด สูตรกราฟ RUN_FILES หรือ SETTINGS.json"
 }
