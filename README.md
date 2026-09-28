@@ -11,4 +11,4 @@
 
 ข้อมูลเวอร์ชันล่าสุดอยู่ใน `version.json`
 
-เวอร์ชันปัจจุบัน: **2026.09.28.4** — ขอสิทธิ์ผู้ดูแล ล้าง Read-only และแทนไฟล์แบบ staged replace เพื่อแก้ Permission denied
+เวอร์ชันปัจจุบัน: **2026.09.28.5** — แก้ Windows 7 ขึ้น The network path was not found ก่อน Setup เปิด และคงระบบแก้ Read-only / staged replace

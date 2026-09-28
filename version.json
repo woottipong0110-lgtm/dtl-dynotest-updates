@@ -1,8 +1,8 @@
 {
-  "version": "2026.09.28.4",
-  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.09.28.4/DTL_DYNOTEST_SETUP_MACHINE_LICENSE_FORCE_REPLACE_WIN7_X64_2026-09-28_4.exe",
-  "sha256": "4EF1D4210CB75994705E9B0F9F7D31C549D79A18B1107A2FD164A7B98B727D26",
-  "size": 97682923,
+  "version": "2026.09.28.5",
+  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.09.28.5/DTL_DYNOTEST_SETUP_MACHINE_LICENSE_LOCAL_PATH_FIX_WIN7_X64_2026-09-28_5.exe",
+  "sha256": "65C0A758A565AE86ABD06F02BE48BC0C83337238E89CE5FA750F9A0245F2911C",
+  "size": 97683207,
   "minimum_windows": "Windows 7 SP1 x64",
-  "notes": "แก้ Permission denied เพิ่มเติม: Setup ขอสิทธิ์ผู้ดูแล ล้าง Read-only ปิดเฉพาะ DTL ที่กำลังทำงาน และแทนไฟล์แบบ staged replace พร้อม retry คีย์เดิมใช้ได้ และไม่เปลี่ยนสูตรวัด สูตรกราฟ RUN_FILES หรือ SETTINGS.json"
+  "notes": "แก้ Windows 7 ขึ้น The network path was not found ก่อน Setup เปิด โดยนำ UAC requireAdministrator ที่ฝังใน Setup ออก แต่คงการปิดเฉพาะโปรแกรม DTL, การล้าง Read-only, staged replace และ retry คีย์เดิมใช้ได้ และไม่เปลี่ยนสูตรวัด สูตรกราฟ RUN_FILES หรือ SETTINGS.json"
 }
