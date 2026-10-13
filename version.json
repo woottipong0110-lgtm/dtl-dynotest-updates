@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.13.1",
-  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.10.13.1/DTL_DYNOTEST_SETUP_CVT_GEAR_D2_LIMITS_WIN7_X64_2026-10-13_1.exe",
-  "sha256": "1E556A82964E1456794941884A1DBA17A105D15D01E93038B0DE4149F4B84E14",
-  "size": 97686062,
+  "version": "2026.10.13.2",
+  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.10.13.2/DTL_DYNOTEST_SETUP_CVT_GEAR_D2_LIMITS_UPDATER_FIX_WIN7_X64_2026-10-13_2.exe",
+  "sha256": "24E6E05FBF6AEE0CAABEBEDCCBBDFF13F3295AF6FE3B24F8792ED978D300736E",
+  "size": 97686354,
   "minimum_windows": "Windows 7 SP1 x64",
-  "notes": "เพิ่มการจำค่า Start Roller (D2) และ Stop Roller (D2) แยกอิสระระหว่าง CVT MODE และ GEAR MODE สลับโหมดแล้วแสดงและใช้งานค่าของโหมดนั้นทันที รองรับการย้ายค่ารุ่นเดิมอัตโนมัติ คงสูตรวัด สูตรกราฟ ระบบป้องกันสัญญาณพุ่ง ระบบคีย์เครื่อง SETTINGS.json และ RUN_FILES เดิม"
+  "notes": "แก้ Windows 7 ขึ้น The network path was not found โดยตัวอัปเดตเรียก Setup โดยตรงและไม่ผ่าน cmd.exe/start อีกต่อไป จึงไม่ตีความ /D= เป็น network/start directory พร้อมคงฟังก์ชันแยกค่า Start/Stop Roller D2 ของ CVT/GEAR สูตรวัด สูตรกราฟ ระบบคีย์เครื่อง SETTINGS.json และ RUN_FILES เดิม"
 }

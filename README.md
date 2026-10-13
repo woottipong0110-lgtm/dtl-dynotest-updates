@@ -11,4 +11,4 @@
 
 ข้อมูลเวอร์ชันล่าสุดอยู่ใน `version.json`
 
-เวอร์ชันปัจจุบัน: **2026.10.13.1** — แยกค่า Start Roller (D2) และ Stop Roller (D2) ระหว่าง CVT MODE และ GEAR MODE โดยคงสูตรวัด สูตรกราฟ ระบบคีย์เครื่อง SETTINGS.json และ RUN_FILES เดิม
+เวอร์ชันปัจจุบัน: **2026.10.13.2** — แก้ Windows 7 ขึ้น The network path was not found โดยเปิด Setup โดยตรง ไม่ผ่าน cmd.exe/start พร้อมคงการแยกค่า D2 ของ CVT/GEAR สูตรวัด สูตรกราฟ ระบบคีย์เครื่อง SETTINGS.json และ RUN_FILES เดิม
