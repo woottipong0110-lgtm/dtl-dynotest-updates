@@ -11,4 +11,4 @@
 
 ข้อมูลเวอร์ชันล่าสุดอยู่ใน `version.json`
 
-เวอร์ชันปัจจุบัน: **2026.10.13.3** — Setup ตรวจตำแหน่งโปรแกรมเดิมจาก Desktop, Start Menu, Taskbar Shortcut และ Registry แล้วซ่อมสำเนาเก่าที่ตรวจพบ พร้อมคง License, SETTINGS.json, RUN_FILES, สูตรวัดและสูตรกราฟเดิม ตัวอัปเดตใหม่เปิด Setup โดยตรงเพื่อแก้ The network path was not found บน Windows 7
+เวอร์ชันปัจจุบัน: **2026.10.13.4** — Force Repair จับตำแหน่ง EXE ที่กำลังเปิดอยู่จริงก่อนปิดโปรแกรมและติดตั้งทับตำแหน่งนั้น รองรับ UNC/Network path ที่เข้าถึงได้ พร้อมคง License, SETTINGS.json, RUN_FILES, สูตรวัดและสูตรกราฟเดิม ตัวอัปเดตใหม่เปิด Setup โดยตรงเพื่อแก้ The network path was not found บน Windows 7
