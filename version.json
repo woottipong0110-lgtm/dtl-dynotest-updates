@@ -1,8 +1,8 @@
 {
-  "version": "2026.09.28.5",
-  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.09.28.5/DTL_DYNOTEST_SETUP_MACHINE_LICENSE_LOCAL_PATH_FIX_WIN7_X64_2026-09-28_5.exe",
-  "sha256": "65C0A758A565AE86ABD06F02BE48BC0C83337238E89CE5FA750F9A0245F2911C",
-  "size": 97683207,
+  "version": "2026.10.13.1",
+  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.10.13.1/DTL_DYNOTEST_SETUP_CVT_GEAR_D2_LIMITS_WIN7_X64_2026-10-13_1.exe",
+  "sha256": "1E556A82964E1456794941884A1DBA17A105D15D01E93038B0DE4149F4B84E14",
+  "size": 97686062,
   "minimum_windows": "Windows 7 SP1 x64",
-  "notes": "แก้ Windows 7 ขึ้น The network path was not found ก่อน Setup เปิด โดยนำ UAC requireAdministrator ที่ฝังใน Setup ออก แต่คงการปิดเฉพาะโปรแกรม DTL, การล้าง Read-only, staged replace และ retry คีย์เดิมใช้ได้ และไม่เปลี่ยนสูตรวัด สูตรกราฟ RUN_FILES หรือ SETTINGS.json"
+  "notes": "เพิ่มการจำค่า Start Roller (D2) และ Stop Roller (D2) แยกอิสระระหว่าง CVT MODE และ GEAR MODE สลับโหมดแล้วแสดงและใช้งานค่าของโหมดนั้นทันที รองรับการย้ายค่ารุ่นเดิมอัตโนมัติ คงสูตรวัด สูตรกราฟ ระบบป้องกันสัญญาณพุ่ง ระบบคีย์เครื่อง SETTINGS.json และ RUN_FILES เดิม"
 }

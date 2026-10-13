@@ -11,4 +11,4 @@
 
 ข้อมูลเวอร์ชันล่าสุดอยู่ใน `version.json`
 
-เวอร์ชันปัจจุบัน: **2026.09.28.5** — แก้ Windows 7 ขึ้น The network path was not found ก่อน Setup เปิด และคงระบบแก้ Read-only / staged replace
+เวอร์ชันปัจจุบัน: **2026.10.13.1** — แยกค่า Start Roller (D2) และ Stop Roller (D2) ระหว่าง CVT MODE และ GEAR MODE โดยคงสูตรวัด สูตรกราฟ ระบบคีย์เครื่อง SETTINGS.json และ RUN_FILES เดิม
