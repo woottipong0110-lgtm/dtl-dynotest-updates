@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.13.4",
-  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.10.13.4/DTL_DYNOTEST_SETUP_FORCE_RUNNING_PATH_REPAIR_WIN7_X64_2026-10-13_4.exe",
-  "sha256": "1AEAA10499BB3F935E411215B660891E280E66052C540D250501E529DBF76D46",
-  "size": 97690109,
+  "version": "2026.10.13.5",
+  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.10.13.5/DTL_DYNOTEST_SETUP_ONLINE_UPDATE_TEST_WIN7_X64_2026-10-13_5.exe",
+  "sha256": "04408978A5E78DFAFF9B56A277E87E4FE44E47C006F42BB6F88B28629AF87316",
+  "size": 97690311,
   "minimum_windows": "Windows 7 SP1 x64",
-  "notes": "Force Repair: ให้เปิด DTL รุ่นเก่าค้างไว้แล้วเปิด Setup นี้ ตัวติดตั้งจะจับตำแหน่ง EXE ที่กำลังรันก่อนปิดและติดตั้งทับตำแหน่งจริงโดยตรง รวมถึง UNC/Network path ที่เข้าถึงได้ พร้อมคง License, SETTINGS.json, RUN_FILES, สูตรวัดและสูตรกราฟเดิม ตัวอัปเดตใหม่เรียก Setup โดยตรงเพื่อแก้ The network path was not found บน Windows 7"
+  "notes": "รุ่นทดสอบ Online Update แบบครบขั้นตอนจาก 2026.10.13.4: ดาวน์โหลดผ่าน HTTPS ตรวจขนาดและ SHA-256 แล้วเปิด Setup โดยตรงโดยไม่ผ่าน cmd.exe/start โปรแกรม สูตรวัด สูตรกราฟ ค่าคาลิเบรต License SETTINGS.json และ RUN_FILES เหมือนเดิมทั้งหมด"
 }
