@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.13.5",
-  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.10.13.5/DTL_DYNOTEST_SETUP_ONLINE_UPDATE_TEST_WIN7_X64_2026-10-13_5.exe",
-  "sha256": "04408978A5E78DFAFF9B56A277E87E4FE44E47C006F42BB6F88B28629AF87316",
-  "size": 97690311,
+  "version": "2026.10.25.1",
+  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.10.25.1/DTL_DYNOTEST_SETUP_CAL_REF_KLINE_D3_WIN7_X64_2026-10-25_1.exe",
+  "sha256": "BF12F047996FECB7A25F6C462EB92185B57D2769B3D83FB4C1188843AD198586",
+  "size": 82683371,
   "minimum_windows": "Windows 7 SP1 x64",
-  "notes": "รุ่นทดสอบ Online Update แบบครบขั้นตอนจาก 2026.10.13.4: ดาวน์โหลดผ่าน HTTPS ตรวจขนาดและ SHA-256 แล้วเปิด Setup โดยตรงโดยไม่ผ่าน cmd.exe/start โปรแกรม สูตรวัด สูตรกราฟ ค่าคาลิเบรต License SETTINGS.json และ RUN_FILES เหมือนเดิมทั้งหมด"
+  "notes": "กลับมาใช้ DTL_DYNOTEST_CAL_REF_KLINE_D3_TRIAL รุ่นวันที่ 2026-10-25 ตามที่กำหนด รองรับ CAL RPM จาก K-Line หรือ D3 และรวมโค้ด Arduino D2/D3/A4 AFR ตัวติดตั้งรักษา License, SETTINGS.json และ RUN_FILES เดิมของลูกค้า"
 }
