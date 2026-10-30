@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.25.1",
-  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.10.25.1/DTL_DYNOTEST_SETUP_CAL_REF_KLINE_D3_WIN7_X64_2026-10-25_1.exe",
-  "sha256": "BF12F047996FECB7A25F6C462EB92185B57D2769B3D83FB4C1188843AD198586",
-  "size": 82683371,
+  "version": "2026.10.30.1",
+  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.10.30.1/DTL_DYNOTEST_SETUP_WIN7_X64_2026-10-30_1.exe",
+  "sha256": "77234856799D8A7FC0CB7A75F0610466E4A78DB43D8FD54904E3C48D6A00C5AC",
+  "size": 82684252,
   "minimum_windows": "Windows 7 SP1 x64",
-  "notes": "กลับมาใช้ DTL_DYNOTEST_CAL_REF_KLINE_D3_TRIAL รุ่นวันที่ 2026-10-25 ตามที่กำหนด รองรับ CAL RPM จาก K-Line หรือ D3 และรวมโค้ด Arduino D2/D3/A4 AFR ตัวติดตั้งรักษา License, SETTINGS.json และ RUN_FILES เดิมของลูกค้า"
+  "notes": "แก้กราฟ RUN 5 และ RUN ถัดไปไม่ให้เส้นกระโดดจาก cache กราฟย้อนหลัง รันล่าสุดคงเป็นเส้นทึบ และรันเก่าที่เลือกเปรียบเทียบเป็นเส้นประ โดยไม่เปลี่ยนสูตร HP/TQ/D2 หรือค่าคาลิเบต ตัวติดตั้งรักษา License, SETTINGS.json และ RUN_FILES เดิมของลูกค้า"
 }
