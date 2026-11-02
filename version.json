@@ -1,8 +1,8 @@
 {
-  "version": "2026.11.03.1",
-  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.11.03.1/DTL_DYNOTEST_SETUP_WIN7_X64_2026-11-03_1.exe",
-  "sha256": "360F054D000695ED9648AAE9778795913A037898BD0C147904DD1F37F40E4345",
-  "size": 82686355,
+  "version": "2026.11.03.2",
+  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.11.03.2/DTL_DYNOTEST_SETUP_WIN7_X64_2026-11-03_2.exe",
+  "sha256": "91C5C70E26E8A2F39BD2CD14862FAA8404A3B9AC8058B50535699C235B689E40",
+  "size": 82687267,
   "minimum_windows": "Windows 7 SP1 x64",
-  "notes": "แก้ปุ่ม K-Line ขณะอยู่ GEAR ไม่ให้สลับค่า Start/Stop D2 ไปใช้โปรไฟล์ CVT; CVT และ GEAR ยังคงแยกค่า 2000/5000 ตามที่ตั้งไว้ เพิ่มการเลือกแหล่ง AFR ระหว่าง K-Line และ UNO A4 พร้อม fallback โดยไม่เปลี่ยนสูตร HP/TQ/D2 หรือสูตร CAL และรักษา License, SETTINGS.json, RUN_FILES เดิมระหว่างอัปเดต"
+  "notes": "ปรับเกจ ENGINE RPM เป็นสไตล์ Blue Orb พร้อมตัวเลขรอบเครื่องจริงตรงกลางและแถบไฟวิ่งตามรอบ เปลี่ยนเฉพาะการวาดเกจ ไม่เปลี่ยนสูตร HP/TQ/D2 สูตรกราฟ หรือสูตร CAL และรักษา License, SETTINGS.json, RUN_FILES เดิมระหว่างอัปเดต"
 }
