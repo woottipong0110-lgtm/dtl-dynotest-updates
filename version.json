@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.30.1",
-  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.10.30.1/DTL_DYNOTEST_SETUP_WIN7_X64_2026-10-30_1.exe",
-  "sha256": "77234856799D8A7FC0CB7A75F0610466E4A78DB43D8FD54904E3C48D6A00C5AC",
-  "size": 82684252,
+  "version": "2026.11.03.1",
+  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.11.03.1/DTL_DYNOTEST_SETUP_WIN7_X64_2026-11-03_1.exe",
+  "sha256": "360F054D000695ED9648AAE9778795913A037898BD0C147904DD1F37F40E4345",
+  "size": 82686355,
   "minimum_windows": "Windows 7 SP1 x64",
-  "notes": "แก้กราฟ RUN 5 และ RUN ถัดไปไม่ให้เส้นกระโดดจาก cache กราฟย้อนหลัง รันล่าสุดคงเป็นเส้นทึบ และรันเก่าที่เลือกเปรียบเทียบเป็นเส้นประ โดยไม่เปลี่ยนสูตร HP/TQ/D2 หรือค่าคาลิเบต ตัวติดตั้งรักษา License, SETTINGS.json และ RUN_FILES เดิมของลูกค้า"
+  "notes": "แก้ปุ่ม K-Line ขณะอยู่ GEAR ไม่ให้สลับค่า Start/Stop D2 ไปใช้โปรไฟล์ CVT; CVT และ GEAR ยังคงแยกค่า 2000/5000 ตามที่ตั้งไว้ เพิ่มการเลือกแหล่ง AFR ระหว่าง K-Line และ UNO A4 พร้อม fallback โดยไม่เปลี่ยนสูตร HP/TQ/D2 หรือสูตร CAL และรักษา License, SETTINGS.json, RUN_FILES เดิมระหว่างอัปเดต"
 }
