@@ -1,8 +1,8 @@
 {
-  "version": "2026.11.03.2",
-  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.11.03.2/DTL_DYNOTEST_SETUP_WIN7_X64_2026-11-03_2.exe",
-  "sha256": "91C5C70E26E8A2F39BD2CD14862FAA8404A3B9AC8058B50535699C235B689E40",
-  "size": 82687267,
+  "version": "2026.11.11.1",
+  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.11.11.1/DTL_DYNOTEST_SETUP_WIN7_X64_2026-11-11_1.exe",
+  "sha256": "E3F314803510BC91776E85251CC2FA17BF09A48C8F5302EDCA83E9103420616A",
+  "size": 87690084,
   "minimum_windows": "Windows 7 SP1 x64",
-  "notes": "ปรับเกจ ENGINE RPM เป็นสไตล์ Blue Orb พร้อมตัวเลขรอบเครื่องจริงตรงกลางและแถบไฟวิ่งตามรอบ เปลี่ยนเฉพาะการวาดเกจ ไม่เปลี่ยนสูตร HP/TQ/D2 สูตรกราฟ หรือสูตร CAL และรักษา License, SETTINGS.json, RUN_FILES เดิมระหว่างอัปเดต"
+  "notes": "รุ่นทดลองปลายทาง: เพิ่ม READY สีเหลืองและ GO! GO! สีเขียวก่อนเริ่มรัน พร้อมกรอบโปร่งใสมองเห็นกราฟด้านหลัง ระหว่างรันใหม่แสดงเฉพาะเส้น Live และคืนกราฟทั้งหมดหลังจบรัน คงสูตร HP/TQ/D2/CAL เดิม และรักษา License, SETTINGS.json, RUN_FILES ระหว่างอัปเดต"
 }
