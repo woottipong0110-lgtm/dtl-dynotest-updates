@@ -1,8 +1,8 @@
 {
-  "version": "2026.11.11.1",
-  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.11.11.1/DTL_DYNOTEST_SETUP_WIN7_X64_2026-11-11_1.exe",
-  "sha256": "E3F314803510BC91776E85251CC2FA17BF09A48C8F5302EDCA83E9103420616A",
-  "size": 87690084,
+  "version": "2026.11.12.1",
+  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.11.12.1/DTL_DYNOTEST_SETUP_WIN7_X64_2026-11-12_1.exe",
+  "sha256": "51B152D9DE5B9047E820629384BCE8F6B2EDE20B6551381B002CA48A21993231",
+  "size": 87693300,
   "minimum_windows": "Windows 7 SP1 x64",
-  "notes": "รุ่นทดลองปลายทาง: เพิ่ม READY สีเหลืองและ GO! GO! สีเขียวก่อนเริ่มรัน พร้อมกรอบโปร่งใสมองเห็นกราฟด้านหลัง ระหว่างรันใหม่แสดงเฉพาะเส้น Live และคืนกราฟทั้งหมดหลังจบรัน คงสูตร HP/TQ/D2/CAL เดิม และรักษา License, SETTINGS.json, RUN_FILES ระหว่างอัปเดต"
+  "notes": "เพิ่มช่อง ROLLER RPM และ ENGINE RPM บนหน้ากราฟ จับรอบตั้งแต่เปิดหน้า ย้ายหัวข้อไปมุมซ้ายบนและใช้ฟอนต์ดิจิทัลแบบหน้าหลัก ค่ารอบใช้แสดงผลเท่านั้น ไม่เปลี่ยนสูตร HP/TQ/D2/กราฟ/CAL และรักษา License, SETTINGS.json, RUN_FILES ระหว่างอัปเดต"
 }
