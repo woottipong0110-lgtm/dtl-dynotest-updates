@@ -1,8 +1,8 @@
 {
-  "version": "2026.11.12.1",
-  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.11.12.1/DTL_DYNOTEST_SETUP_WIN7_X64_2026-11-12_1.exe",
-  "sha256": "51B152D9DE5B9047E820629384BCE8F6B2EDE20B6551381B002CA48A21993231",
-  "size": 87693300,
+  "version": "2026.11.13.1",
+  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.11.13.1/DTL_DYNOTEST_SETUP_WIN7_X64_2026-11-13_1.exe",
+  "sha256": "4504F1D3496EC6020558DDA7B49E912546CDE95E8133377C00CCCF55E2720A0E",
+  "size": 90843562,
   "minimum_windows": "Windows 7 SP1 x64",
-  "notes": "เพิ่มช่อง ROLLER RPM และ ENGINE RPM บนหน้ากราฟ จับรอบตั้งแต่เปิดหน้า ย้ายหัวข้อไปมุมซ้ายบนและใช้ฟอนต์ดิจิทัลแบบหน้าหลัก ค่ารอบใช้แสดงผลเท่านั้น ไม่เปลี่ยนสูตร HP/TQ/D2/กราฟ/CAL และรักษา License, SETTINGS.json, RUN_FILES ระหว่างอัปเดต"
+  "notes": "แก้ AFR เมื่อไม่มีสัญญาณจากแหล่งที่เลือก: ช่อง AFR ว่างและไม่วาดเส้น 14.7 วาดและบันทึกเส้น AFR เฉพาะเมื่อ A4 หรือ K-Line มีข้อมูลจริง ไม่เปลี่ยนสูตร HP/TQ/D2/กราฟหลัก/CAL และรักษา License, SETTINGS.json, RUN_FILES ระหว่างอัปเดต"
 }
