@@ -1,8 +1,8 @@
 {
-  "version": "2026.11.19.1",
-  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.11.19.1/DTL_DYNOTEST_SETUP_WIN7_X64_2026-11-19_1.exe",
-  "sha256": "8AE5E33B805A60ED81F325C3543B956C85F3BACCA1E9FA8E96879FC2D67CCE5B",
-  "size": 90844066,
+  "version": "2026.11.23.2",
+  "setup_url": "https://github.com/woottipong0110-lgtm/dtl-dynotest-updates/releases/download/v2026.11.23.2/DTL_DYNOTEST_SETUP_WIN7_X64_2026-11-23_2.exe",
+  "sha256": "147F7C99CF6D88F10BB514B41DC8F5A8679BF78205C5E738FCD26D0C554F73D9",
+  "size": 90929987,
   "minimum_windows": "Windows 7 SP1 x64",
   "notes": "เวอร์ชันใหม่"
 }
